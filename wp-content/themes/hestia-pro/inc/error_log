@@ -1,0 +1,2 @@
+[05-Dec-2018 16:59:12 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/uomleoso/public_html/wp-content/themes/hestia-pro/inc/customizer.php on line 28
+[13-Dec-2018 20:53:01 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/uomleoso/public_html/wp-content/themes/hestia-pro/inc/template-tags.php on line 774

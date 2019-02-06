@@ -1,0 +1,2 @@
+[06-Oct-2017 08:36:45 America/New_York] PHP Fatal error:  Call to undefined function language_attributes() in /home/uomleoso/public_html/wp-content/themes/hestia/header.php on line 11
+[16-Oct-2017 23:06:17 America/New_York] PHP Fatal error:  Call to undefined function get_theme_mod() in /home/uomleoso/public_html/wp-content/themes/hestia/index.php on line 17

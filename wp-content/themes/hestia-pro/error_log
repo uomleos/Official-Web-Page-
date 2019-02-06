@@ -1,0 +1,11 @@
+[24-Mar-2018 07:01:45 America/New_York] PHP Fatal error:  Call to undefined function hestia_sidebar_on_single_post_get_default() in /home/uomleoso/public_html/wp-content/themes/hestia-pro/archive.php on line 17
+[25-Mar-2018 08:24:01 America/New_York] PHP Fatal error:  Call to undefined function language_attributes() in /home/uomleoso/public_html/wp-content/themes/hestia-pro/header.php on line 11
+[26-Mar-2018 01:49:17 America/New_York] PHP Fatal error:  Call to undefined function get_theme_mod() in /home/uomleoso/public_html/wp-content/themes/hestia-pro/index.php on line 17
+[11-Apr-2018 01:07:24 America/New_York] PHP Fatal error:  Call to undefined function hestia_sidebar_on_single_post_get_default() in /home/uomleoso/public_html/wp-content/themes/hestia-pro/archive.php on line 17
+[14-Sep-2018 00:15:23 America/New_York] PHP Fatal error:  Call to undefined function hestia_sidebar_on_single_post_get_default() in /home/uomleoso/public_html/wp-content/themes/hestia-pro/archive.php on line 17
+[14-Sep-2018 00:15:23 America/New_York] PHP Fatal error:  Call to undefined function get_theme_mod() in /home/uomleoso/public_html/wp-content/themes/hestia-pro/index.php on line 17
+[14-Sep-2018 00:15:23 America/New_York] PHP Fatal error:  Call to undefined function language_attributes() in /home/uomleoso/public_html/wp-content/themes/hestia-pro/header.php on line 11
+[05-Dec-2018 16:59:16 America/New_York] PHP Fatal error:  Call to undefined function hestia_sidebar_on_single_post_get_default() in /home/uomleoso/public_html/wp-content/themes/hestia-pro/archive.php on line 17
+[30-Dec-2018 19:45:09 America/New_York] PHP Fatal error:  Call to undefined function hestia_sidebar_on_single_post_get_default() in /home/uomleoso/public_html/wp-content/themes/hestia-pro/archive.php on line 17
+[30-Dec-2018 19:45:09 America/New_York] PHP Fatal error:  Call to undefined function language_attributes() in /home/uomleoso/public_html/wp-content/themes/hestia-pro/header.php on line 11
+[30-Dec-2018 19:45:09 America/New_York] PHP Fatal error:  Call to undefined function get_theme_mod() in /home/uomleoso/public_html/wp-content/themes/hestia-pro/index.php on line 17

@@ -1,0 +1,2 @@
+[05-Dec-2018 04:17:25 America/New_York] PHP Fatal error:  Call to undefined function the_ID() in /home/uomleoso/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
+[05-Dec-2018 12:19:12 America/New_York] PHP Fatal error:  Call to undefined function the_ID() in /home/uomleoso/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11

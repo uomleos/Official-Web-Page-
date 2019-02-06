@@ -1,0 +1,4 @@
+[02-Feb-2018 00:47:34 America/New_York] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/uomleoso/public_html/wp-includes/session.php on line 8
+[16-Apr-2018 21:55:42 America/New_York] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/uomleoso/public_html/wp-includes/locale.php on line 10
+[07-Jun-2018 19:21:30 America/New_York] PHP Fatal error:  Class 'Walker' not found in /home/uomleoso/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[13-Dec-2018 20:53:01 America/New_York] PHP Fatal error:  Class 'Walker' not found in /home/uomleoso/public_html/wp-includes/class-walker-nav-menu.php on line 17
